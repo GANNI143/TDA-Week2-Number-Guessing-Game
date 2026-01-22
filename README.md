@@ -4,7 +4,6 @@ This project is part of The Developers Arena internship – Week 2 Hands-on Prac
 
 Task: Create a number guessing game with hints using Python.
 Concepts used: if-else, loops, user input, random module.
----
 
 ## 🎮 Rock Paper Scissors Game
 
@@ -18,9 +17,24 @@ A console-based Rock Paper Scissors game where the user plays against the comput
 - Option to play multiple rounds
 
 ### Technologies Used
-- Python
+python
 
 ### How to Run
 1. Navigate to the Week-2 repository
 2. Run the file using:
+
+## 👤 Age Category Program
+
+### Description
+A Python program that takes user age as input and categorizes it into different age groups.
+
+### Features
+- Categorizes age into Child, Teenager, Adult, or Senior Citizen
+- Handles invalid and non-numeric input
+- Simple and user-friendly output
+
+### Technologies Used
+- Python
+
+### How to Run
 
