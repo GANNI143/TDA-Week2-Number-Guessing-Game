@@ -22,6 +22,7 @@ python
 ### How to Run
 1. Navigate to the Week-2 repository
 2. Run the file using:
+3. python Rock-Paper-Scissors.py in command
 
 ## 👤 Age Category Program
 
@@ -37,8 +38,11 @@ A Python program that takes user age as input and categorizes it into different 
 - Python
 
 ### How to Run
-## 🛒 Shopping List Manager
+1. Navigate to the Week-2 repository
+2. Run the file using:
+3. python age_categorys.py in command
 
+## 🛒 Shopping List Manager
 ### Description
 A console-based Python application to manage a shopping list with add, remove, and view functionality.
 
@@ -52,3 +56,6 @@ A console-based Python application to manage a shopping list with add, remove, a
 - Python
 
 ### How to Run
+ Navigate to the Week-2 repository
+2. Run the file using:
+3. python shopping_list.py in command
