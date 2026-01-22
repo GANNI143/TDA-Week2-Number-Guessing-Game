@@ -37,4 +37,18 @@ A Python program that takes user age as input and categorizes it into different 
 - Python
 
 ### How to Run
+## 🛒 Shopping List Manager
 
+### Description
+A console-based Python application to manage a shopping list with add, remove, and view functionality.
+
+### Features
+- Add items to the shopping list
+- Remove items from the shopping list
+- Display all items
+- Handles invalid user input
+
+### Technologies Used
+- Python
+
+### How to Run
